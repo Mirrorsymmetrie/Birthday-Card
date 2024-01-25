@@ -1,6 +1,5 @@
 # Mirror
 Newbie here. 
-I love scrabble.
-I want to learn how to code it to my prefered game style.
+I want to learn how to code the things i wanted.
 im still learning.
 Hehe.
